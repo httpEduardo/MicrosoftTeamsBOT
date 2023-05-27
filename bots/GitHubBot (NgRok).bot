@@ -1,0 +1,18 @@
+{
+    "name": "GitHubBot (NgRok)",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "https://1fc68a7b.ngrok.io/api/messages",
+            "id": "3cc1bc60-0482-11e9-a78e-45bc819a01ea",
+            "name": "ngrok to localhost"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "D:\\Repos\\Personal\\teams-bot\\bots\\GitHubBot (NgRok).bot"
+}
