@@ -25,7 +25,3 @@ ngrok http [portaAppLocalhost]
 ```
 3. Abrir Bot Framework com configurações para url disponibilizada pelo ngrok.  
 Ex.: https://1234acbd.ngrok.io/api/messages
-
-## Contribuição
-Se deseja contribuir saiba mais sobre a formatação do arquivo README, veja em [Guia de Sintax](https://docs.microsoft.com/en-us/vsts/project/wiki/markdown-guidance?view=vsts)
-# MicrosoftTeamsBOT
