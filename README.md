@@ -24,5 +24,5 @@ npm start
 ngrok http [portaAppLocalhost]
 ```
 3. Abrir Bot Framework com configurações para url disponibilizada pelo ngrok.  
-<br>
-Ex.: https://1234acbd.ngrok.io/api/messages
+
+ Ex.: https://1234acbd.ngrok.io/api/messages
